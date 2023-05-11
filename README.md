@@ -55,9 +55,8 @@ Developer Note : Please know that we are aware that there are some bugs and limi
 
 
 # Contributin : 
-
-Project Manager : Bema Konate, Athena Chen
-Lead UserInterface Developer (our MVP!): Bema Konate
-Developers : Bema Konate, Kazi Hossain, Athena Chen, Alex Patterson
-Technical Writer : Athena Chen, Kazi Hossain
-Database Engineer: Alex Patterson
+Project Manager : Bema Konate, Athena Chen </br>
+Lead UserInterface Developer (our MVP!): Bema Konate </br>
+Developers : Bema Konate, Kazi Hossain, Athena Chen, Alex Patterson </br>
+Technical Writer : Athena Chen, Kazi Hossain </br>
+Database Engineer: Alex Patterson </br>
