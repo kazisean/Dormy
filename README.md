@@ -58,3 +58,6 @@ Lead UserInterface Developer (our MVP!): Bema Konate </br>
 Developers : Bema Konate, Kazi Hossain, Athena Chen, Alex Patterson </br>
 Technical Writer : Athena Chen, Kazi Hossain </br>
 Database Engineer: Alex Patterson </br>
+
+
+(Note : This a final project for NYU CS101 Introduction to Computer Programming Class. This program is only maintained until May 20th, 2023. You can create your own version of this program or expend upon it by forking this repo. Thanks <3 )
