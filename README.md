@@ -6,10 +6,10 @@ Steps to download Dormy :
 
 Make sure you have the latest version of Java JDK installed on your computer.
 You can check this by running ( java –version ) without the parentheses in your terminal window. 
-Download a java IDE of your choice a collection of lists can be found here. 
+Download a java IDE of your choice a collection of lists can be found [here](https://hackr.io/blog/best-java-ides). 
 Download the latest version of Dormy. This can be done from Google Drive or github. 
 Steps to download from Google Drive : 
-1. Visit the following link - Google Drive Link
+1. Visit the following link - [Google Drive Link](https://drive.google.com/drive/folders/19IzLxzq6PaXR5TmYw1rG3kCoBEOTjPE2)
 2. Click “Dorm Project” and then click “download”. 
 3. After that use a unzip utility to unzip the folder
 
