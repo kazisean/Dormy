@@ -1,3 +1,5 @@
+# Dormy 
+
 Hello! And welcome to the documentation of Dormy : Here is a step by step guide on how to use our product. 
 
 Steps to download Dormy : 
