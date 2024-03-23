@@ -1,6 +1,6 @@
 # Dormy 
 
-Hello! And welcome to the documentation of Dormy : Here is a step by step guide on how to use our product. 
+Hello! And welcome to the documentation of Dormy : Here is a step by step guide on how to use our TUI dorm management system. 
 
 Steps to download Dormy : 
 
@@ -16,7 +16,7 @@ Steps to download Dormy :
 + Steps to download from Github 
 1. Make sure you have the latest version of git and github installed on your device. 
 2. cd into the directory where you want the dormy files to be saved
-3. Run the following command without the parentheses to install Dormy into your selected director ( https://github.com/kazisean/Dormy ) 
+3. Run the following command without the parentheses to install Dormy into your selected directory ( git clone https://github.com/kazisean/Dormy . ) 
 
 + Use a java environment from step #1 to open the dormy files 
 Run the dormy GUI and you will be greeted with a GUI window with 8 different options ranging from 0 to 7
