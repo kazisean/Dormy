@@ -52,7 +52,7 @@ This option can be used to remove a student from a dorm room. This feature is ve
 ### Developer Note : Please know that we are aware that there are some bugs and limitations in our current version of Dormy. Some of which include crashing the software upon clicking cancel and ok without anything in the textbox. This is a beta version of Dormy and we will continue working on it in future solving these issues. 
 
 
-# Contributin : 
+# Contribution : 
 Project Manager : Bema Konate, Athena Chen </br>
 Lead UserInterface Developer (our MVP!): Bema Konate </br>
 Developers : Bema Konate, Kazi Hossain, Athena Chen, Alex Patterson </br>
